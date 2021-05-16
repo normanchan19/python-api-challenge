@@ -7,3 +7,4 @@ one that has corrected code while WeatherPy is testing stuff. output_data is fil
 
 5/15
 VacationPy has heatmap and filtered weather data dataframe to be my preferred vacation destination weather characteristics.
+Finished heatmaps. Analysis of general trends included as markdown at the top of WeatherPy.
